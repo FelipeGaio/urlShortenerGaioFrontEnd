@@ -1,5 +1,9 @@
 # GaioShortener
 
+Small project calling the backend(https://github.com/FelipeGaio/urlShortenerGaio)
+
+Send long url to the backend and return the shortened url
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
